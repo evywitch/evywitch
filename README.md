@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Evelyn Andrade</h1>
 
-<!--
-**evywitch/evywitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedora Full Stack · 17 anos · Estudante de Desenvolvimento de Sistemas (SEDUD-SP)
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+
+- Estudante de **Desenvolvimento de Sistemas** pela **SEDUD-SP**
+- Focada em desenvolvimento **full stack** com JavaScript e TypeScript
+- Apaixonada por tecnologia, programação e criação de soluções digitais
+- Em constante evolução para atuar com boas práticas como clean code, acessibilidade e arquitetura de software
+- Interesse em backend, automação e integração de sistemas
+
+---
+
+## Contato
+
+- **LinkedIn:** https://www.linkedin.com/mariaevelyn-andrade  
+- **Portfólio / GitHub:** https://github.com/evywitch  
+
+---
+
+> “A tecnologia é a ponte entre o que somos e o que podemos nos tornar.”
+
