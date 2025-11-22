@@ -4,6 +4,11 @@
   Desenvolvedora Full Stack · 17 anos · Estudante de Desenvolvimento de Sistemas (SEDUD-SP)
 </p>
 
+---
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+---
 
 ## Sobre
 
