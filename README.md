@@ -15,7 +15,7 @@
 
 - Estudante de **Desenvolvimento de Sistemas** pela **SEDUD-SP**
 - Cursando Javascript e POWER BI pelo **SENAI**
-- Focada em desenvolvimento **full stack** com JavaScript e TypeScript
+- Focada em desenvolvimento **full stack** com JavaScript e python
 - Apaixonada por tecnologia, programação e criação de soluções digitais
 - Em constante evolução para atuar com boas práticas como clean code, acessibilidade e arquitetura de software
 - Interesse em backend, automação e integração de sistemas
