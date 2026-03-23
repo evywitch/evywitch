@@ -1,7 +1,7 @@
 <h1 align="center">Evelyn Andrade</h1>
 
 <p align="center">
-  Desenvolvedora Full Stack · 17 anos · Estudante de Desenvolvimento de Sistemas (SENAI e SEDUC-SP) · Estudando JS e POWER BI pelo SENAI
+  Desenvolvedora Full Stack · 17 anos · Estudante de Desenvolvimento de Sistemas (SENAI e SEDUC-SP) · Certificado de JS e POWER BI pelo SENAI
 </p>
 
 ---
